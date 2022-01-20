@@ -11,6 +11,7 @@
 		FCABE02C27999B8000526F2C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCABE02B27999B8000526F2C /* ContentView.swift */; };
 		FCABE02E27999B9400526F2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCABE02D27999B9400526F2C /* Assets.xcassets */; };
 		FCABE03127999B9400526F2C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCABE03027999B9400526F2C /* Preview Assets.xcassets */; };
+		FCABE03A2799BCAD00526F2C /* TextofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCABE0392799BCAD00526F2C /* TextofBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FCABE02D27999B9400526F2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FCABE03027999B9400526F2C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FCABE03227999B9400526F2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCABE0392799BCAD00526F2C /* TextofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextofBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				FCABE02927999B8000526F2C /* SwiftUIBootcampApp.swift */,
 				FCABE02B27999B8000526F2C /* ContentView.swift */,
+				FCABE0392799BCAD00526F2C /* TextofBootcamp.swift */,
 				FCABE02D27999B9400526F2C /* Assets.xcassets */,
 				FCABE03227999B9400526F2C /* Info.plist */,
 				FCABE02F27999B9400526F2C /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				FCABE02C27999B8000526F2C /* ContentView.swift in Sources */,
 				FCABE02A27999B8000526F2C /* SwiftUIBootcampApp.swift in Sources */,
+				FCABE03A2799BCAD00526F2C /* TextofBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
