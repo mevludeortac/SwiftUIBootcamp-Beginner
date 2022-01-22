@@ -14,6 +14,7 @@
 		FCABE03127999B9400526F2C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCABE03027999B9400526F2C /* Preview Assets.xcassets */; };
 		FCABE03A2799BCAD00526F2C /* TextofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCABE0392799BCAD00526F2C /* TextofBootcamp.swift */; };
 		FCABE03D2799F6EC00526F2C /* ShapesofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCABE03C2799F6EC00526F2C /* ShapesofBootcamp.swift */; };
+		FCDCE1A7279CB629002FB1C1 /* GradientsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDCE1A6279CB629002FB1C1 /* GradientsofBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FCABE03227999B9400526F2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FCABE0392799BCAD00526F2C /* TextofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextofBootcamp.swift; sourceTree = "<group>"; };
 		FCABE03C2799F6EC00526F2C /* ShapesofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesofBootcamp.swift; sourceTree = "<group>"; };
+		FCDCE1A6279CB629002FB1C1 /* GradientsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsofBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FCABE0392799BCAD00526F2C /* TextofBootcamp.swift */,
 				FCABE03C2799F6EC00526F2C /* ShapesofBootcamp.swift */,
 				FC5CF714279B421100C271F8 /* ColorsofBootcamp.swift */,
+				FCDCE1A6279CB629002FB1C1 /* GradientsofBootcamp.swift */,
 				FCABE02D27999B9400526F2C /* Assets.xcassets */,
 				FCABE03227999B9400526F2C /* Info.plist */,
 				FCABE02F27999B9400526F2C /* Preview Content */,
@@ -150,6 +153,7 @@
 				FCABE02C27999B8000526F2C /* ContentView.swift in Sources */,
 				FCABE02A27999B8000526F2C /* SwiftUIBootcampApp.swift in Sources */,
 				FC5CF715279B421100C271F8 /* ColorsofBootcamp.swift in Sources */,
+				FCDCE1A7279CB629002FB1C1 /* GradientsofBootcamp.swift in Sources */,
 				FCABE03A2799BCAD00526F2C /* TextofBootcamp.swift in Sources */,
 				FCABE03D2799F6EC00526F2C /* ShapesofBootcamp.swift in Sources */,
 			);
