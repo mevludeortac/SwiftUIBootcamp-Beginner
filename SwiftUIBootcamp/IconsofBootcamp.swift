@@ -21,7 +21,6 @@ struct IconsofBootcamp: View {
                 .font(.system(size: 50))
                 .foregroundColor(Color(#colorLiteral(red: 0.9098039269, green: 0.5709543417, blue: 0.8256072202, alpha: 1)))
                 .frame(width: 70, height: 70)
-            
             Image(systemName: "heart")
                 //frame ile boyutlandırmak istediğimizde sadece çerçevenin değil iconun da boyutlandırmak için kullanıyoruz
                 .resizable()
@@ -37,6 +36,7 @@ struct IconsofBootcamp: View {
                 .font(.largeTitle)
                 .foregroundColor(Color(#colorLiteral(red: 0.9098039269, green: 0.5709543417, blue: 0.8256072202, alpha: 1)))
                 .frame(width: 70, height: 70)
+            
         }
         
     }
