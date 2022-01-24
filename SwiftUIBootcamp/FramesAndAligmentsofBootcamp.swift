@@ -75,13 +75,6 @@ struct FramesAndAligmentsofBootcamp: View {
                 .background(Color.orange)
                 .padding()
 
-
-
-
-
-
-
-
         }
        
     }
