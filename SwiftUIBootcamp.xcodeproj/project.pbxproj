@@ -22,6 +22,7 @@
 		FCABE03D2799F6EC00526F2C /* ShapesofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCABE03C2799F6EC00526F2C /* ShapesofBootcamp.swift */; };
 		FCDCE1A7279CB629002FB1C1 /* GradientsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDCE1A6279CB629002FB1C1 /* GradientsofBootcamp.swift */; };
 		FCDCE1AA279CC33C002FB1C1 /* IconsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDCE1A9279CC33C002FB1C1 /* IconsofBootcamp.swift */; };
+		FCE111F627A2C3EE001A6AE8 /* InitializerAndEnumBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE111F527A2C3ED001A6AE8 /* InitializerAndEnumBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		FCABE03C2799F6EC00526F2C /* ShapesofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesofBootcamp.swift; sourceTree = "<group>"; };
 		FCDCE1A6279CB629002FB1C1 /* GradientsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsofBootcamp.swift; sourceTree = "<group>"; };
 		FCDCE1A9279CC33C002FB1C1 /* IconsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsofBootcamp.swift; sourceTree = "<group>"; };
+		FCE111F527A2C3ED001A6AE8 /* InitializerAndEnumBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerAndEnumBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				FCDCE1A6279CB629002FB1C1 /* GradientsofBootcamp.swift */,
 				FC693C96279F442B00DD8991 /* PaddingofBootcamp.swift */,
 				FC5716A227A04B92003631C2 /* SpacerofBootcamp.swift */,
+				FCE111F527A2C3ED001A6AE8 /* InitializerAndEnumBootcamp.swift */,
 				FCDCE1A9279CC33C002FB1C1 /* IconsofBootcamp.swift */,
 				FCAB779F279DB54A007D3CC5 /* ImagesofBootcamp.swift */,
 				FC4023F6279DCC6F0061AEAE /* FramesAndAligmentsofBootcamp.swift */,
@@ -183,6 +186,7 @@
 				FC4023F7279DCC6F0061AEAE /* FramesAndAligmentsofBootcamp.swift in Sources */,
 				FC693C93279F021400DD8991 /* VStackAndZStackAndZStack.swift in Sources */,
 				FCABE03D2799F6EC00526F2C /* ShapesofBootcamp.swift in Sources */,
+				FCE111F627A2C3EE001A6AE8 /* InitializerAndEnumBootcamp.swift in Sources */,
 				FC693C97279F442B00DD8991 /* PaddingofBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
