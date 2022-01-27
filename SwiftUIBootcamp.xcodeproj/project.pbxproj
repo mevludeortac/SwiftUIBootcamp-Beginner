@@ -23,6 +23,7 @@
 		FCDCE1A7279CB629002FB1C1 /* GradientsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDCE1A6279CB629002FB1C1 /* GradientsofBootcamp.swift */; };
 		FCDCE1AA279CC33C002FB1C1 /* IconsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDCE1A9279CC33C002FB1C1 /* IconsofBootcamp.swift */; };
 		FCE111F627A2C3EE001A6AE8 /* InitializerAndEnumBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE111F527A2C3ED001A6AE8 /* InitializerAndEnumBootcamp.swift */; };
+		FCE111F927A2E4AC001A6AE8 /* ForEachofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE111F827A2E4AC001A6AE8 /* ForEachofBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		FCDCE1A6279CB629002FB1C1 /* GradientsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsofBootcamp.swift; sourceTree = "<group>"; };
 		FCDCE1A9279CC33C002FB1C1 /* IconsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsofBootcamp.swift; sourceTree = "<group>"; };
 		FCE111F527A2C3ED001A6AE8 /* InitializerAndEnumBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerAndEnumBootcamp.swift; sourceTree = "<group>"; };
+		FCE111F827A2E4AC001A6AE8 /* ForEachofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachofBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				FC693C96279F442B00DD8991 /* PaddingofBootcamp.swift */,
 				FC5716A227A04B92003631C2 /* SpacerofBootcamp.swift */,
 				FCE111F527A2C3ED001A6AE8 /* InitializerAndEnumBootcamp.swift */,
+				FCE111F827A2E4AC001A6AE8 /* ForEachofBootcamp.swift */,
 				FCDCE1A9279CC33C002FB1C1 /* IconsofBootcamp.swift */,
 				FCAB779F279DB54A007D3CC5 /* ImagesofBootcamp.swift */,
 				FC4023F6279DCC6F0061AEAE /* FramesAndAligmentsofBootcamp.swift */,
@@ -174,6 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FCE111F927A2E4AC001A6AE8 /* ForEachofBootcamp.swift in Sources */,
 				FCABE02C27999B8000526F2C /* ContentView.swift in Sources */,
 				FCAB77A0279DB54A007D3CC5 /* ImagesofBootcamp.swift in Sources */,
 				FCABE02A27999B8000526F2C /* SwiftUIBootcampApp.swift in Sources */,
