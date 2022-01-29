@@ -27,6 +27,7 @@
 		FCE111FC27A30A6B001A6AE8 /* ScrollViewofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE111FB27A30A6B001A6AE8 /* ScrollViewofBootcamp.swift */; };
 		FCE111FF27A32AC2001A6AE8 /* GridofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE111FE27A32AC2001A6AE8 /* GridofBootcamp.swift */; };
 		FCF50E9B27A412650008CE75 /* SafeAreaofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF50E9A27A412650008CE75 /* SafeAreaofBootcamp.swift */; };
+		FCF50E9E27A4770C0008CE75 /* ButtonsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF50E9D27A4770B0008CE75 /* ButtonsofBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		FCE111FB27A30A6B001A6AE8 /* ScrollViewofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewofBootcamp.swift; sourceTree = "<group>"; };
 		FCE111FE27A32AC2001A6AE8 /* GridofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridofBootcamp.swift; sourceTree = "<group>"; };
 		FCF50E9A27A412650008CE75 /* SafeAreaofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaofBootcamp.swift; sourceTree = "<group>"; };
+		FCF50E9D27A4770B0008CE75 /* ButtonsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsofBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				FCDCE1A6279CB629002FB1C1 /* GradientsofBootcamp.swift */,
 				FC693C96279F442B00DD8991 /* PaddingofBootcamp.swift */,
 				FC5716A227A04B92003631C2 /* SpacerofBootcamp.swift */,
+				FCF50E9D27A4770B0008CE75 /* ButtonsofBootcamp.swift */,
 				FCE111FE27A32AC2001A6AE8 /* GridofBootcamp.swift */,
 				FCF50E9A27A412650008CE75 /* SafeAreaofBootcamp.swift */,
 				FCE111F527A2C3ED001A6AE8 /* InitializerAndEnumBootcamp.swift */,
@@ -187,6 +190,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FCE111F927A2E4AC001A6AE8 /* ForEachofBootcamp.swift in Sources */,
+				FCF50E9E27A4770C0008CE75 /* ButtonsofBootcamp.swift in Sources */,
 				FCABE02C27999B8000526F2C /* ContentView.swift in Sources */,
 				FCAB77A0279DB54A007D3CC5 /* ImagesofBootcamp.swift in Sources */,
 				FCABE02A27999B8000526F2C /* SwiftUIBootcampApp.swift in Sources */,
