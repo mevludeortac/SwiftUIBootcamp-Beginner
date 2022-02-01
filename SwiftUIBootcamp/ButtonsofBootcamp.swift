@@ -52,8 +52,6 @@ struct ButtonsofBootcamp: View {
                     .font(.largeTitle)
                     .foregroundColor(.pink)
                 )
-                
-                
             }).padding()
             
             //4
@@ -73,7 +71,6 @@ struct ButtonsofBootcamp: View {
                     )
             })
         }
-        
     }
 }
 

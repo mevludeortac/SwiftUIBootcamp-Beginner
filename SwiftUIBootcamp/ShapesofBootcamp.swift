@@ -20,7 +20,7 @@ struct ShapesofBootcamp: View {
             Circle()
                 //.stroke()
                 //.stroke(Color.blue)
-                .trim(from: 0.3, to: 1.0)
+                .trim(from: 0.31, to: 1.0)
                 .stroke(Color.green, lineWidth: 5)
         }
         VStack{
@@ -38,7 +38,6 @@ struct ShapesofBootcamp: View {
                 .frame(width: 150, height: 100)
             RoundedRectangle(cornerRadius: 15.0)
                 .frame(width: 150, height: 100)
-
         }
     }
 }

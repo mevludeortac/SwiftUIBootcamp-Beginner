@@ -27,8 +27,6 @@ struct SafeAreaofBootcamp: View {
                     .shadow(radius: 10 )
             }
         }
-      
-            
             //foreground
             ScrollView{
                 VStack {
@@ -50,10 +48,7 @@ struct SafeAreaofBootcamp: View {
                     //OLD TYPE, we will not use this anymore
                         //.edgesIgnoringSafeArea(.all)
                     .ignoresSafeArea()
-
             )
-        
-            
     }
 }
 

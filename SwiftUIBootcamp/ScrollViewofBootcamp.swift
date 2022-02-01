@@ -22,16 +22,13 @@ struct ScrollViewofBootcamp: View {
                                             .shadow(radius: 5 )
                                             .padding()
                                     }
-                                    
                                 }
                     })
-                    
                 }
             }
         }
     }
 }
-
 
 struct ScrollViewofBootcamp_Previews: PreviewProvider {
     static var previews: some View {
