@@ -15,6 +15,7 @@
 		FC693C93279F021400DD8991 /* VStackAndZStackAndZStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC693C92279F021400DD8991 /* VStackAndZStackAndZStack.swift */; };
 		FC693C97279F442B00DD8991 /* PaddingofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC693C96279F442B00DD8991 /* PaddingofBootcamp.swift */; };
 		FC862D1027AAFED00004DDD9 /* AnimationofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC862D0F27AAFED00004DDD9 /* AnimationofBootcamp.swift */; };
+		FC862D1327AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC862D1227AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift */; };
 		FCA4928727A5F7F9006A733C /* ExtractingFunctionsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA4928627A5F7F8006A733C /* ExtractingFunctionsofBootcamp.swift */; };
 		FCAB77A0279DB54A007D3CC5 /* ImagesofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCAB779F279DB54A007D3CC5 /* ImagesofBootcamp.swift */; };
 		FCABE02A27999B8000526F2C /* SwiftUIBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCABE02927999B8000526F2C /* SwiftUIBootcampApp.swift */; };
@@ -46,6 +47,7 @@
 		FC693C92279F021400DD8991 /* VStackAndZStackAndZStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStackAndZStackAndZStack.swift; sourceTree = "<group>"; };
 		FC693C96279F442B00DD8991 /* PaddingofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingofBootcamp.swift; sourceTree = "<group>"; };
 		FC862D0F27AAFED00004DDD9 /* AnimationofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationofBootcamp.swift; sourceTree = "<group>"; };
+		FC862D1227AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurvesAndAnimationTiming.swift; sourceTree = "<group>"; };
 		FCA4928627A5F7F8006A733C /* ExtractingFunctionsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractingFunctionsofBootcamp.swift; sourceTree = "<group>"; };
 		FCAB779F279DB54A007D3CC5 /* ImagesofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesofBootcamp.swift; sourceTree = "<group>"; };
 		FCABE02627999B8000526F2C /* SwiftUIBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -122,6 +124,7 @@
 				FCE111FB27A30A6B001A6AE8 /* ScrollViewofBootcamp.swift */,
 				FCA4928627A5F7F8006A733C /* ExtractingFunctionsofBootcamp.swift */,
 				FCDCE1A9279CC33C002FB1C1 /* IconsofBootcamp.swift */,
+				FC862D1227AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift */,
 				FCAB779F279DB54A007D3CC5 /* ImagesofBootcamp.swift */,
 				FC4023F6279DCC6F0061AEAE /* FramesAndAligmentsofBootcamp.swift */,
 				FC693C92279F021400DD8991 /* VStackAndZStackAndZStack.swift */,
@@ -229,6 +232,7 @@
 				FC862D1027AAFED00004DDD9 /* AnimationofBootcamp.swift in Sources */,
 				FC4023F7279DCC6F0061AEAE /* FramesAndAligmentsofBootcamp.swift in Sources */,
 				FC693C93279F021400DD8991 /* VStackAndZStackAndZStack.swift in Sources */,
+				FC862D1327AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift in Sources */,
 				FCABE03D2799F6EC00526F2C /* ShapesofBootcamp.swift in Sources */,
 				FCF24FEF27A59A3100703523 /* States.swift in Sources */,
 				FCE111F627A2C3EE001A6AE8 /* InitializerAndEnumBootcamp.swift in Sources */,
