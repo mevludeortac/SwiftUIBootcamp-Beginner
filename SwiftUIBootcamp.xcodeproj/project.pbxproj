@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC325CDE27AC26EF0073A30C /* SheetsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC325CDD27AC26EF0073A30C /* SheetsofBootcamp.swift */; };
 		FC4023F7279DCC6F0061AEAE /* FramesAndAligmentsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC4023F6279DCC6F0061AEAE /* FramesAndAligmentsofBootcamp.swift */; };
 		FC4023FA279DE2E00061AEAE /* BackgroundsAndOverlaysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC4023F9279DE2E00061AEAE /* BackgroundsAndOverlaysBootcamp.swift */; };
 		FC5716A327A04B92003631C2 /* SpacerofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC5716A227A04B92003631C2 /* SpacerofBootcamp.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC325CDD27AC26EF0073A30C /* SheetsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsofBootcamp.swift; sourceTree = "<group>"; };
 		FC4023F6279DCC6F0061AEAE /* FramesAndAligmentsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramesAndAligmentsofBootcamp.swift; sourceTree = "<group>"; };
 		FC4023F9279DE2E00061AEAE /* BackgroundsAndOverlaysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsAndOverlaysBootcamp.swift; sourceTree = "<group>"; };
 		FC5716A227A04B92003631C2 /* SpacerofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerofBootcamp.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				FCDCE1A9279CC33C002FB1C1 /* IconsofBootcamp.swift */,
 				FC862D1227AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift */,
 				FC862D1627AB3A750004DDD9 /* TransitionofBootcamp.swift */,
+				FC325CDD27AC26EF0073A30C /* SheetsofBootcamp.swift */,
 				FCAB779F279DB54A007D3CC5 /* ImagesofBootcamp.swift */,
 				FC4023F6279DCC6F0061AEAE /* FramesAndAligmentsofBootcamp.swift */,
 				FC693C92279F021400DD8991 /* VStackAndZStackAndZStack.swift */,
@@ -225,6 +228,7 @@
 				FCABE02A27999B8000526F2C /* SwiftUIBootcampApp.swift in Sources */,
 				FCDC80DD27AAC50800C1D890 /* TernaryOperationsofBootcamp.swift in Sources */,
 				FC5CF715279B421100C271F8 /* ColorsofBootcamp.swift in Sources */,
+				FC325CDE27AC26EF0073A30C /* SheetsofBootcamp.swift in Sources */,
 				FC5716A327A04B92003631C2 /* SpacerofBootcamp.swift in Sources */,
 				FCDCE1A7279CB629002FB1C1 /* GradientsofBootcamp.swift in Sources */,
 				FC4023FA279DE2E00061AEAE /* BackgroundsAndOverlaysBootcamp.swift in Sources */,
