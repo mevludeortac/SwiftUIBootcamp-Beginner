@@ -8,6 +8,9 @@
 import SwiftUI
 
 struct ContextMenuofBootcamp: View {
+    
+    @State var bgColor: Color = Color.orange
+    
     var body: some View {
         VStack(alignment: .leading, spacing: 6.0) {
             Image(systemName: "house.fill")
@@ -19,12 +22,24 @@ struct ContextMenuofBootcamp: View {
         .foregroundColor(.white)
         .padding(20)
         .frame(width: 200, height: 150)
-        .background(Color.orange)
+        .background(bgColor)
         .cornerRadius(20)
         .contextMenu(ContextMenu(menuItems: {
-            /*@START_MENU_TOKEN@*/Text("Menu Item 1")/*@END_MENU_TOKEN@*/
-            /*@START_MENU_TOKEN@*/Text("Menu Item 2")/*@END_MENU_TOKEN@*/
-            /*@START_MENU_TOKEN@*/Text("Menu Item 3")/*@END_MENU_TOKEN@*/
+            Button(action: {
+                bgColor = .green
+            }, label: {
+                Text("change to green")
+            })
+            Button(action: {
+                bgColor = .red
+            }, label: {
+                Text("change to red")
+            })
+            Button(action: {
+                bgColor = .purple
+            }, label: {
+                Text("change to purple")
+            })
         }))
         
     }
