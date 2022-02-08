@@ -21,7 +21,7 @@ struct ContextMenuofBootcamp: View {
         }
         .foregroundColor(.white)
         .padding(20)
-        .frame(width: 200, height: 150)
+        .frame(width: 200, height: 110)
         .background(bgColor)
         .cornerRadius(20)
         .contextMenu(ContextMenu(menuItems: {
