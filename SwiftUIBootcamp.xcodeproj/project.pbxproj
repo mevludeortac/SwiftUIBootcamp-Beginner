@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FC028A9527B2EB4D00995A09 /* ActionSheetofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC028A9427B2EB4D00995A09 /* ActionSheetofBootcamp.swift */; };
+		FC028A9C27B30C7A00995A09 /* ContextMenuofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC028A9B27B30C7900995A09 /* ContextMenuofBootcamp.swift */; };
 		FC0ED0DF27B181430039F438 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0ED0DE27B181430039F438 /* SwiftUIView.swift */; };
 		FC0ED0E127B1815C0039F438 /* AlertofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0ED0E027B1815B0039F438 /* AlertofBootcamp.swift */; };
 		FC325CDE27AC26EF0073A30C /* SheetsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC325CDD27AC26EF0073A30C /* SheetsofBootcamp.swift */; };
@@ -48,6 +49,7 @@
 
 /* Begin PBXFileReference section */
 		FC028A9427B2EB4D00995A09 /* ActionSheetofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetofBootcamp.swift; sourceTree = "<group>"; };
+		FC028A9B27B30C7900995A09 /* ContextMenuofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuofBootcamp.swift; sourceTree = "<group>"; };
 		FC0ED0DE27B181430039F438 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		FC0ED0E027B1815B0039F438 /* AlertofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertofBootcamp.swift; sourceTree = "<group>"; };
 		FC325CDD27AC26EF0073A30C /* SheetsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsofBootcamp.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				FCF50E9D27A4770B0008CE75 /* ButtonsofBootcamp.swift */,
 				FC0ED0E027B1815B0039F438 /* AlertofBootcamp.swift */,
 				FC028A9427B2EB4D00995A09 /* ActionSheetofBootcamp.swift */,
+				FC028A9B27B30C7900995A09 /* ContextMenuofBootcamp.swift */,
 				FCF24FEE27A59A3100703523 /* States.swift */,
 				FC0ED0DE27B181430039F438 /* SwiftUIView.swift */,
 				FCDC80DC27AAC50800C1D890 /* TernaryOperationsofBootcamp.swift */,
@@ -247,6 +250,7 @@
 				FCABE02A27999B8000526F2C /* SwiftUIBootcampApp.swift in Sources */,
 				FC028A9527B2EB4D00995A09 /* ActionSheetofBootcamp.swift in Sources */,
 				FCDC80DD27AAC50800C1D890 /* TernaryOperationsofBootcamp.swift in Sources */,
+				FC028A9C27B30C7A00995A09 /* ContextMenuofBootcamp.swift in Sources */,
 				FC5CF715279B421100C271F8 /* ColorsofBootcamp.swift in Sources */,
 				FC325CDE27AC26EF0073A30C /* SheetsofBootcamp.swift in Sources */,
 				FC5716A327A04B92003631C2 /* SpacerofBootcamp.swift in Sources */,
