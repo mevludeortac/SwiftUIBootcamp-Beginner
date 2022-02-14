@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FC028A9527B2EB4D00995A09 /* ActionSheetofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC028A9427B2EB4D00995A09 /* ActionSheetofBootcamp.swift */; };
 		FC028A9C27B30C7A00995A09 /* ContextMenuofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC028A9B27B30C7900995A09 /* ContextMenuofBootcamp.swift */; };
+		FC042A0227B881AA00D81AB8 /* PickerofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC042A0127B881A900D81AB8 /* PickerofBootcamp.swift */; };
 		FC0ED0DF27B181430039F438 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0ED0DE27B181430039F438 /* SwiftUIView.swift */; };
 		FC0ED0E127B1815C0039F438 /* AlertofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0ED0E027B1815B0039F438 /* AlertofBootcamp.swift */; };
 		FC325CDE27AC26EF0073A30C /* SheetsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC325CDD27AC26EF0073A30C /* SheetsofBootcamp.swift */; };
@@ -53,6 +54,7 @@
 /* Begin PBXFileReference section */
 		FC028A9427B2EB4D00995A09 /* ActionSheetofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetofBootcamp.swift; sourceTree = "<group>"; };
 		FC028A9B27B30C7900995A09 /* ContextMenuofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuofBootcamp.swift; sourceTree = "<group>"; };
+		FC042A0127B881A900D81AB8 /* PickerofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerofBootcamp.swift; sourceTree = "<group>"; };
 		FC0ED0DE27B181430039F438 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		FC0ED0E027B1815B0039F438 /* AlertofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertofBootcamp.swift; sourceTree = "<group>"; };
 		FC325CDD27AC26EF0073A30C /* SheetsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsofBootcamp.swift; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 				FCDBE10527B31A7400634B1F /* TextFieldofBootcamp.swift */,
 				FC571A9227B8344100863750 /* TextEditorofBootcamp.swift */,
 				FC571A9827B8761D00863750 /* ToggleofBootcamp.swift */,
+				FC042A0127B881A900D81AB8 /* PickerofBootcamp.swift */,
 				FCF50E9D27A4770B0008CE75 /* ButtonsofBootcamp.swift */,
 				FC0ED0E027B1815B0039F438 /* AlertofBootcamp.swift */,
 				FC028A9427B2EB4D00995A09 /* ActionSheetofBootcamp.swift */,
@@ -258,6 +261,7 @@
 				FC571A9927B8761D00863750 /* ToggleofBootcamp.swift in Sources */,
 				FCAB77A0279DB54A007D3CC5 /* ImagesofBootcamp.swift in Sources */,
 				FCABE02A27999B8000526F2C /* SwiftUIBootcampApp.swift in Sources */,
+				FC042A0227B881AA00D81AB8 /* PickerofBootcamp.swift in Sources */,
 				FC028A9527B2EB4D00995A09 /* ActionSheetofBootcamp.swift in Sources */,
 				FCDC80DD27AAC50800C1D890 /* TernaryOperationsofBootcamp.swift in Sources */,
 				FCDBE10627B31A7400634B1F /* TextFieldofBootcamp.swift in Sources */,
