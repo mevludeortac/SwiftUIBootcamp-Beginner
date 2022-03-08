@@ -20,6 +20,10 @@ class FruitViewModel: ObservableObject {
     @Published var fruitArray: [FruitModel] = []
     @Published var isLoading: Bool = false
     
+    init() {
+        getFruits()
+    }
+    
     func getFruits(){
         let fruit1 = FruitModel(name: "bananas", count: 11)
         let fruit2 = FruitModel(name: "strawberry", count: 34)
@@ -39,8 +43,10 @@ class FruitViewModel: ObservableObject {
 }
 //all logic in here is about updating to the view
 struct ViewModelofBootcamp: View {
+    //@StateObject -> USE THIS ON CREATION / INIT
+    //@ObservableObject -> USE THIS FOR SUBVIEWS
     //We reference this way
-    @ObservedObject  var fruitViewModel : FruitViewModel = FruitViewModel()
+    @StateObject  var fruitViewModel : FruitViewModel = FruitViewModel()
     
     var body: some View {
         NavigationView{
@@ -59,13 +65,39 @@ struct ViewModelofBootcamp: View {
                 }
             }.listStyle(GroupedListStyle())
             .navigationTitle("Fruit List")
-            .onAppear(){
-                fruitViewModel.getFruits()
+            .navigationBarItems(trailing:
+                                    NavigationLink(
+                                        destination: RandomScreen( fruitViewModel: fruitViewModel),
+                                        label: {
+                                            Image(systemName: "arrow.right")
+                                                                    .font(.title)
+                                                                    .foregroundColor(.blue)
+                                        })
+           
+            )
+           
+        }
+    }
+}
+struct RandomScreen: View{
+    //back to navigationView
+    @Environment(\.presentationMode) var presentationMode
+    @ObservedObject var fruitViewModel: FruitViewModel
+    var body: some View{
+        ZStack{
+            Color.green.ignoresSafeArea()
+            VStack{
+                ForEach(fruitViewModel.fruitArray) { fruit in
+                    HStack{
+                        Text(fruit.name)
+                            .font(.largeTitle)
+                            .foregroundColor(.white)
+                    }
+                    }
             }
         }
     }
 }
-
 struct ViewModelofBootcamp_Previews: PreviewProvider {
     static var previews: some View {
         ViewModelofBootcamp()
