@@ -32,6 +32,7 @@
 		FC71871427D51EA600D51CD3 /* TabGestureofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC71871327D51EA500D51CD3 /* TabGestureofBootcamp.swift */; };
 		FC71871827D5588D00D51CD3 /* ModelofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC71871727D5588D00D51CD3 /* ModelofBootcamp.swift */; };
 		FC71871C27D584AB00D51CD3 /* ViewModelofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC71871B27D584AB00D51CD3 /* ViewModelofBootcamp.swift */; };
+		FC719EAD27EFDE1800C1F279 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC719EAC27EFDE1800C1F279 /* ProfileView.swift */; };
 		FC7CB72827CFCE74000B84DD /* DocumentationofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7CB72727CFCE74000B84DD /* DocumentationofBootcamp.swift */; };
 		FC862D1027AAFED00004DDD9 /* AnimationofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC862D0F27AAFED00004DDD9 /* AnimationofBootcamp.swift */; };
 		FC862D1327AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC862D1227AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift */; };
@@ -63,6 +64,8 @@
 		FCF24FEF27A59A3100703523 /* States.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF24FEE27A59A3100703523 /* States.swift */; };
 		FCF50E9B27A412650008CE75 /* SafeAreaofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF50E9A27A412650008CE75 /* SafeAreaofBootcamp.swift */; };
 		FCF50E9E27A4770C0008CE75 /* ButtonsofBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF50E9D27A4770B0008CE75 /* ButtonsofBootcamp.swift */; };
+		FCFCDB4F27E2286600942498 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCFCDB4E27E2285900942498 /* IntroView.swift */; };
+		FCFCDB5327E22BFF00942498 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCFCDB5227E22BFF00942498 /* OnboardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -91,6 +94,7 @@
 		FC71871327D51EA500D51CD3 /* TabGestureofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabGestureofBootcamp.swift; sourceTree = "<group>"; };
 		FC71871727D5588D00D51CD3 /* ModelofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelofBootcamp.swift; sourceTree = "<group>"; };
 		FC71871B27D584AB00D51CD3 /* ViewModelofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelofBootcamp.swift; sourceTree = "<group>"; };
+		FC719EAC27EFDE1800C1F279 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		FC7CB72727CFCE74000B84DD /* DocumentationofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationofBootcamp.swift; sourceTree = "<group>"; };
 		FC862D0F27AAFED00004DDD9 /* AnimationofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationofBootcamp.swift; sourceTree = "<group>"; };
 		FC862D1227AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurvesAndAnimationTiming.swift; sourceTree = "<group>"; };
@@ -124,6 +128,8 @@
 		FCF24FEE27A59A3100703523 /* States.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = States.swift; sourceTree = "<group>"; };
 		FCF50E9A27A412650008CE75 /* SafeAreaofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaofBootcamp.swift; sourceTree = "<group>"; };
 		FCF50E9D27A4770B0008CE75 /* ButtonsofBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsofBootcamp.swift; sourceTree = "<group>"; };
+		FCFCDB4E27E2285900942498 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		FCFCDB5227E22BFF00942498 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +173,7 @@
 				FC5CF714279B421100C271F8 /* ColorsofBootcamp.swift */,
 				FC7CB72727CFCE74000B84DD /* DocumentationofBootcamp.swift */,
 				FC65772D27D2CF2F00F7C8A1 /* IfLetGuardofBootcamp.swift */,
+				FCFCDB4D27E2282400942498 /* OnboardingViews */,
 				FC71871727D5588D00D51CD3 /* ModelofBootcamp.swift */,
 				FC71871B27D584AB00D51CD3 /* ViewModelofBootcamp.swift */,
 				FC336E1A27D8F47500E2882F /* EnvironmentObjectofBootcamp.swift */,
@@ -223,6 +230,16 @@
 				FCABE03027999B9400526F2C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FCFCDB4D27E2282400942498 /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				FCFCDB4E27E2285900942498 /* IntroView.swift */,
+				FCFCDB5227E22BFF00942498 /* OnboardingView.swift */,
+				FC719EAC27EFDE1800C1F279 /* ProfileView.swift */,
+			);
+			path = OnboardingViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -307,8 +324,10 @@
 				FCAB77A0279DB54A007D3CC5 /* ImagesofBootcamp.swift in Sources */,
 				FCABE02A27999B8000526F2C /* SwiftUIBootcampApp.swift in Sources */,
 				FC042A0227B881AA00D81AB8 /* PickerofBootcamp.swift in Sources */,
+				FCFCDB5327E22BFF00942498 /* OnboardingView.swift in Sources */,
 				FC028A9527B2EB4D00995A09 /* ActionSheetofBootcamp.swift in Sources */,
 				FCDC80DD27AAC50800C1D890 /* TernaryOperationsofBootcamp.swift in Sources */,
+				FC719EAD27EFDE1800C1F279 /* ProfileView.swift in Sources */,
 				FC9AC35627BC542400037458 /* ColorPickerofBootcamp.swift in Sources */,
 				FCDBE10627B31A7400634B1F /* TextFieldofBootcamp.swift in Sources */,
 				FC028A9C27B30C7A00995A09 /* ContextMenuofBootcamp.swift in Sources */,
@@ -336,6 +355,7 @@
 				FC862D1327AB24F70004DDD9 /* AnimationCurvesAndAnimationTiming.swift in Sources */,
 				FCABE03D2799F6EC00526F2C /* ShapesofBootcamp.swift in Sources */,
 				FCF24FEF27A59A3100703523 /* States.swift in Sources */,
+				FCFCDB4F27E2286600942498 /* IntroView.swift in Sources */,
 				FC71871427D51EA600D51CD3 /* TabGestureofBootcamp.swift in Sources */,
 				FCE111F627A2C3EE001A6AE8 /* InitializerAndEnumBootcamp.swift in Sources */,
 				FC693C97279F442B00DD8991 /* PaddingofBootcamp.swift in Sources */,
